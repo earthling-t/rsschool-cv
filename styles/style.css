@@ -1,0 +1,32 @@
+html {
+    font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Roboto', sans-serif;
+    background-color: #49256E
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #E0D9E7;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #E0D9E7;
+}
+h4 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    }
+img {
+margin: 0;
+display: block;
+}
+.bold {
+    font-weight: bold;
+}
