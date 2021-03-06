@@ -21,4 +21,4 @@ empty
 [JavaScript Development (RS School)](https://docs.rs.school/#/README)  
 [Google Analytics](https://analytics.google.com/analytics/academy/certificate/MmoQQv8qSnucI-0qpksDsQ)  
 
-8. >**English**: B1 Intermediate
+8. >**English**: *B1 Intermediate*
